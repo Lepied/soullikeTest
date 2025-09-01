@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 80d7ecbaa1b24e6399ee95f6fc0b9c90
+timeCreated: 1697718362
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311107
+  packageName: "404\u2014GEN text-to-3D Generator"
+  packageVersion: 0.5.0
+  assetPath: Assets/404-gen-unity-plugin/Editor/GaussianToolContext.cs
+  uploadId: 765859

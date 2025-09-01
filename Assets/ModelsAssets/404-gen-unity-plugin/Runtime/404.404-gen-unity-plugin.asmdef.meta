@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b653174f8fcdcd49b4c9a6f1ca8c7c3
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311107
+  packageName: "404\u2014GEN text-to-3D Generator"
+  packageVersion: 0.5.0
+  assetPath: Assets/404-gen-unity-plugin/Runtime/404.404-gen-unity-plugin.asmdef
+  uploadId: 765859

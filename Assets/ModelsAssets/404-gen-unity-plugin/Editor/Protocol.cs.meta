@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 95c7551cc84a44f48d7a521519a6710a
+timeCreated: 1731327961
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311107
+  packageName: "404\u2014GEN text-to-3D Generator"
+  packageVersion: 0.5.0
+  assetPath: Assets/404-gen-unity-plugin/Editor/Protocol.cs
+  uploadId: 765859

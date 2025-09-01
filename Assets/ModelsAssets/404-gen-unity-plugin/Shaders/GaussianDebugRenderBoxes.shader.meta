@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4006f2680fd7c8b4cbcb881454c782be
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311107
+  packageName: "404\u2014GEN text-to-3D Generator"
+  packageVersion: 0.5.0
+  assetPath: Assets/404-gen-unity-plugin/Shaders/GaussianDebugRenderBoxes.shader
+  uploadId: 765859

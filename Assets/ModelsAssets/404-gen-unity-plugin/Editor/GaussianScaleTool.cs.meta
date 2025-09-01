@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: dbf3d17a31b942b28f5d8c187adb8fdf
+timeCreated: 1697732813
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311107
+  packageName: "404\u2014GEN text-to-3D Generator"
+  packageVersion: 0.5.0
+  assetPath: Assets/404-gen-unity-plugin/Editor/GaussianScaleTool.cs
+  uploadId: 765859
